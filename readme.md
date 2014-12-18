@@ -3,7 +3,7 @@
 Learn how to use Laravel's 4.2 `GlobalScopes`. More info [softonsofa.com/laravel-how-to-define-and-use-eloquent-global-scopes](http://softonsofa.com/laravel-how-to-define-and-use-eloquent-global-scopes/)
 
 
-### Usage
+### Usage - 1 minute setup
 
 1. clone the repo with `git clone https://github.com/jarektkaczyk/laravel4-global-scope-example.git`
 2. run `composer install` in order to pull all the packages
